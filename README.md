@@ -17,7 +17,7 @@ Auto IP or Domain Attack Tool ( #1 )
 
 ✔ apt install git python python2
 
-✔ git clone https://github.com/Bhai4You/Ip-Attack
+✔ git clone https://github.com/edwarderlick/IP-Attack.git
 
 ✔ cd Ip-Attack
 
